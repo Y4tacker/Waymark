@@ -426,4 +426,15 @@ The tests cover initialization, special facts, scoped IDs, intent and reason lea
 
 ## License
 
-MIT, as declared in [.claude-plugin/plugin.json](.claude-plugin/plugin.json).
+## License
+
+Waymark is dual-licensed.
+
+The open source version is licensed under the GNU Affero General Public License
+v3.0 only (`AGPL-3.0-only`). See [LICENSE](LICENSE).
+
+Commercial or proprietary use without AGPLv3 obligations requires a separate
+commercial license. Please contact the project maintainer for details.
+
+By submitting a pull request, you agree that your contribution may be used under
+both the AGPL-3.0-only license and the project's commercial license.
