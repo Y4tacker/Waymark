@@ -1,10 +1,10 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
-  "name": "waymark-local",
+  "name": "waymark",
   "owner": {
     "name": "Waymark Plugin"
   },
-  "description": "Local marketplace for the Waymark Blackboard Claude Code plugin.",
+  "description": "Marketplace for the Waymark Blackboard Claude Code plugin.",
   "plugins": [
     {
       "name": "waymark",
