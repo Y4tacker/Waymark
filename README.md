@@ -7,7 +7,6 @@
 ![Runtime](https://img.shields.io/badge/runtime-Claude%20Code%20plugin-informational)
 ![Storage](https://img.shields.io/badge/storage-SQLite-informational)
 ![Dependencies](https://img.shields.io/badge/deps-Python%20stdlib%20only-lightgrey)
-[![Stars](https://img.shields.io/github/stars/Y4tacker/Waymark?style=flat&label=stars)](https://github.com/Y4tacker/Waymark/stargazers)
 
 ## What Waymark Is
 
