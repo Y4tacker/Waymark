@@ -248,9 +248,6 @@ Waymark implements that coordination shape on Claude Code's built-in substrate i
 | Default runtime      | `/goal + PROTOCOL.md`                                        |
 | Optional scale mode  | Dynamic Workflow adapter/reference, not the default installed runtime |
 | Repository           | [Y4tacker/Waymark](https://github.com/Y4tacker/Waymark)      |
-| Waymark GitHub stars | [![GitHub Repo stars](https://img.shields.io/github/stars/Y4tacker/Waymark?style=flat&label=stars)](https://github.com/Y4tacker/Waymark/stargazers) |
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Y4tacker/Waymark&type=Date)](https://www.star-history.com/#Y4tacker/Waymark&Date)
 
 ## Requirements
 
@@ -423,6 +420,9 @@ The tests cover initialization, special facts, scoped IDs, intent and reason lea
 - [skills/waymark-goal/SKILL.md](skills/waymark-goal/SKILL.md) - mission-contract drafting skill.
 - [hooks/hooks.json](hooks/hooks.json) - Claude Code hook wiring.
 - [scripts/waymark_hook.py](scripts/waymark_hook.py) - observational hook handler and optional strict stop gate.
+
+## Others 
+[![Star History Chart](https://api.star-history.com/svg?repos=Y4tacker/Waymark&type=Date)](https://www.star-history.com/#Y4tacker/Waymark&Date)
 
 ## License
 
