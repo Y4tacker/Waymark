@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "waymark-local",
+  "owner": {
+    "name": "Waymark Plugin"
+  },
+  "description": "Local marketplace for the Waymark Blackboard Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "waymark",
+      "source": "./",
+      "description": "Claude Code plugin that supervises durable Fact-Intent blackboard runs through an internal waymark CLI.",
+      "category": "productivity"
+    }
+  ]
+}

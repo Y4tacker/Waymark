@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "waymark",
+  "displayName": "Waymark Blackboard",
+  "version": "0.1.0",
+  "description": "Claude Code plugin that supervises durable Fact-Intent blackboard runs through an internal waymark CLI.",
+  "author": {
+    "name": "Waymark Plugin"
+  },
+  "license": "MIT",
+  "keywords": [
+    "waymark",
+    "blackboard",
+    "goal",
+    "agents",
+    "sqlite"
+  ],
+  "defaultEnabled": true
+}
